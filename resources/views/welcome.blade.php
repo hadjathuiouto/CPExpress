@@ -80,13 +80,13 @@
                         <a href="about.html" class="nav-item nav-link">A propos</a>
                         <a href="service.html" class="nav-item nav-link">Services</a>
                         <a href="pricing.html" class="nav-item nav-link">Prix</a>
-                        <div class="nav-item dropdown">
+                       <!-- <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                             <div class="dropdown-menu border-0 rounded-0 m-0">
                                 <a href="blog.html" class="dropdown-item">Blog Grid</a>
                                 <a href="single.html" class="dropdown-item">Blog Detail</a>
                             </div>
-                        </div>
+                        </div>-->
                         <a href="contact.html" class="nav-item nav-link">Contact</a>
                     </div>
                 </div>
@@ -272,28 +272,28 @@
                     <p>Avec nous, vos habits sont en sécurité. nous en prenons soin et nous vous les livrons en un temps record. Nous nous soucions de vous, de vos habits et de votre portefeuille</p>
                     <div class="row">
                         <div class="col-sm-6 mb-4">
-                            <h1 class="text-secondary" data-toggle="counter-up">10</h1>
-                            <h5 class="font-weight-bold">Years Expereince</h5>
+                            <h1 class="text-secondary" data-toggle="counter-up">1</h1>
+                            <h5 class="font-weight-bold">Grande structure</h5>
                         </div>
                         <div class="col-sm-6 mb-4">
-                            <h1 class="text-secondary" data-toggle="counter-up">250</h1>
-                            <h5 class="font-weight-bold">Expert Worker</h5>
+                            <h1 class="text-secondary" data-toggle="counter-up">20</h1>
+                            <h5 class="font-weight-bold">Employés Experts</h5>
                         </div>
                         <div class="col-sm-6 mb-4">
-                            <h1 class="text-secondary" data-toggle="counter-up">1250</h1>
-                            <h5 class="font-weight-bold">Happy Clients</h5>
+                            <h1 class="text-secondary" data-toggle="counter-up">120</h1>
+                            <h5 class="font-weight-bold">Clients Contents</h5>
                         </div>
                         <div class="col-sm-6 mb-4">
-                            <h1 class="text-secondary" data-toggle="counter-up">9550</h1>
-                            <h5 class="font-weight-bold">Dry Cleaning</h5>
+                            <h1 class="text-secondary" data-toggle="counter-up">50</h1>
+                            <h5 class="font-weight-bold">Machines</h5>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-5">
                     <div class="d-flex flex-column align-items-center justify-content-center bg-secondary h-100 py-5 px-3">
                         <i class="fa fa-5x fa-certificate text-white mb-5"></i>
-                        <h1 class="display-1 text-white mb-3">10+</h1>
-                        <h1 class="text-white m-0">Years Experience</h1>
+                        <h4 class="display-1 text-white mb-3">Conakry Pressing Express</h4>
+                       <!--<h1 class="text-white m-0">Conakry Pressing Express</h1>-->
                     </div>
                 </div>
             </div>
@@ -305,15 +305,15 @@
     <!-- Working Process Start -->
     <div class="container-fluid pt-5">
         <div class="container">
-            <h6 class="text-secondary text-uppercase text-center font-weight-medium mb-3">Working Process</h6>
-            <h1 class="display-4 text-center mb-5">How We Work</h1>
+            <h6 class="text-secondary text-uppercase text-center font-weight-medium mb-3">Processus de travail</h6>
+            <h1 class="display-4 text-center mb-5">Comment nous travaillons</h1>
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="d-flex flex-column align-items-center justify-content-center text-center mb-5">
                         <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
                             <h2 class="display-2 text-secondary m-0">1</h2>
                         </div>
-                        <h3 class="font-weight-bold m-0 mt-2">Order Place</h3>
+                        <h3 class="font-weight-bold m-0 mt-2">Prenez un rendez-vous</h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -321,7 +321,7 @@
                         <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
                             <h2 class="display-2 text-secondary m-0">2</h2>
                         </div>
-                        <h3 class="font-weight-bold m-0 mt-2">Free Pick Up</h3>
+                        <h3 class="font-weight-bold m-0 mt-2">Récupération gratuite</h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -329,7 +329,7 @@
                         <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
                             <h2 class="display-2 text-secondary m-0">3</h2>
                         </div>
-                        <h3 class="font-weight-bold m-0 mt-2">Dry Cleaning</h3>
+                        <h3 class="font-weight-bold m-0 mt-2">Lavage à sec</h3>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -337,7 +337,7 @@
                         <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
                             <h2 class="display-2 text-secondary m-0">4</h2>
                         </div>
-                        <h3 class="font-weight-bold m-0 mt-2">Free Delivery</h3>
+                        <h3 class="font-weight-bold m-0 mt-2">Livraison gratuite</h3>
                     </div>
                 </div>
             </div>
@@ -349,41 +349,41 @@
     <!-- Pricing Plan Start -->
     <div class="container-fluid pt-5 pb-3">
         <div class="container">
-            <h6 class="text-secondary text-uppercase text-center font-weight-medium mb-3">Our Pricing Plan</h6>
-            <h1 class="display-4 text-center mb-5">The Best Price</h1>
+            <h6 class="text-secondary text-uppercase text-center font-weight-medium mb-3">Nos plans tarifaires</h6>
+            <h1 class="display-4 text-center mb-5">Les meilleurs prix</h1>
             <div class="row">
                 <div class="col-lg-4 mb-4">
                     <div class="bg-light text-center mb-2 pt-4">
                         <div class="d-inline-flex flex-column align-items-center justify-content-center bg-secondary rounded-circle shadow mt-2 mb-4" style="width: 200px; height: 200px; border: 15px solid #ffffff;">
                             <h3 class="text-white">Basic</h3>
                             <h1 class="display-4 text-white mb-0">
-                                <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>49<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Mo</small>
+                                <small class="align-top" style="font-size: 22px; line-height: 45px;"></small>72<small class="align-bottom" style="font-size: 16px; line-height: 40px;"> heures</small>
                             </h1>
                         </div>
                         <div class="d-flex flex-column align-items-center py-3">
-                            <p>HTML5 & CSS3</p>
-                            <p>Bootstrap 4</p>
-                            <p>Responsive Layout</p>
-                            <p>Compatible With All Browsers</p>
+                            <p>Récupération gratuite</p>
+                            <p>Lavage et séchage</p>
+                            <p>3 jours d'attente </p>
+                            <p>Livraison gratuite</p>
                         </div>
-                        <a href="" class="btn btn-secondary py-2 px-4">Signup Now</a>
+                        <a href="" class="btn btn-secondary py-2 px-4">Voir les détails</a>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-4">
                     <div class="bg-light text-center mb-2 pt-4">
                         <div class="d-inline-flex flex-column align-items-center justify-content-center bg-primary rounded-circle shadow mt-2 mb-4" style="width: 200px; height: 200px; border: 15px solid #ffffff;">
-                            <h3 class="text-white">Standard</h3>
+                            <h3 class="text-white">Express</h3>
                             <h1 class="display-4 text-white mb-0">
-                                <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>99<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Mo</small>
+                                <small class="align-top" style="font-size: 22px; line-height: 45px;"></small>4<small class="align-bottom" style="font-size: 16px; line-height: 40px;"> heures</small>
                             </h1>
                         </div>
                         <div class="d-flex flex-column align-items-center py-3">
-                            <p>HTML5 & CSS3</p>
-                            <p>Bootstrap 4</p>
-                            <p>Responsive Layout</p>
-                            <p>Compatible With All Browsers</p>
+                            <p>Récupération gratuite</p>
+                            <p>Lavage et séchage</p>
+                            <p>2 à 4 heures d'attente</p>
+                            <p>Livraison gratuite</p>
                         </div>
-                        <a href="" class="btn btn-primary py-2 px-4">Signup Now</a>
+                        <a href="" class="btn btn-primary py-2 px-4">Voir les détails</a>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-4">
@@ -391,16 +391,16 @@
                         <div class="d-inline-flex flex-column align-items-center justify-content-center bg-secondary rounded-circle shadow mt-2 mb-4" style="width: 200px; height: 200px; border: 15px solid #ffffff;">
                             <h3 class="text-white">Premium</h3>
                             <h1 class="display-4 text-white mb-0">
-                                <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>149<small class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Mo</small>
+                                <small class="align-top" style="font-size: 22px; line-height: 45px;"></small>1<small class="align-bottom" style="font-size: 16px; line-height: 40px;">fois / mois</small>
                             </h1>
                         </div>
                         <div class="d-flex flex-column align-items-center py-3">
-                            <p>HTML5 & CSS3</p>
-                            <p>Bootstrap 4</p>
-                            <p>Responsive Layout</p>
-                            <p>Compatible With All Browsers</p>
+                            <p>Récupération gratuite</p>
+                            <p>Lavage et séchage</p>
+                            <p>1 jours d'attente </p>
+                            <p>Livraison gratuite</p>
                         </div>
-                        <a href="" class="btn btn-secondary py-2 px-4">Signup Now</a>
+                        <a href="" class="btn btn-secondary py-2 px-4">Voir les détails</a>
                     </div>
                 </div>
             </div>
@@ -412,11 +412,19 @@
     <!-- Testimonial Start -->
     <div class="container-fluid py-5">
         <div class="container">
-            <h6 class="text-secondary text-uppercase text-center font-weight-medium mb-3">Testimonial</h6>
-            <h1 class="display-4 text-center mb-5">Our Clients Say</h1>
+            <h6 class="text-secondary text-uppercase text-center font-weight-medium mb-3">Témoignages</h6>
+            <h1 class="display-4 text-center mb-5">Nos clients disent</h1>
             <div class="owl-carousel testimonial-carousel">
                 <div class="testimonial-item">
-                    <img class="position-relative rounded-circle bg-white shadow mx-auto" src="img/testimonial-1.jpg" style="width: 100px; height: 100px; padding: 12px; margin-bottom: -50px; z-index: 1;" alt="">
+                   <!-- <img class="position-relative rounded-circle bg-white shadow mx-auto" src="img/testimonial-1.jpg" style="width: 100px; height: 100px; padding: 12px; margin-bottom: -50px; z-index: 1;" alt="">-->
+                    <div class="bg-light text-center p-4 pt-0">
+                        <h5 class="font-weight-medium mt-5">Client Name</h5>
+                        <p class="text-muted font-italic">Profession</p>
+                        <p class="m-0">Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor ipsum clita</p>
+                    </div>
+                </div>Nos clients disent
+                <div class="testimonial-item">
+                   <!-- <img class="position-relative rounded-circle bg-white shadow mx-auto" src="img/testimonial-2.jpg" style="width: 100px; height: 100px; padding: 12px; margin-bottom: -50px; z-index: 1;" alt="">-->
                     <div class="bg-light text-center p-4 pt-0">
                         <h5 class="font-weight-medium mt-5">Client Name</h5>
                         <p class="text-muted font-italic">Profession</p>
@@ -424,7 +432,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item">
-                    <img class="position-relative rounded-circle bg-white shadow mx-auto" src="img/testimonial-2.jpg" style="width: 100px; height: 100px; padding: 12px; margin-bottom: -50px; z-index: 1;" alt="">
+                    <!--<img class="position-relative rounded-circle bg-white shadow mx-auto" src="img/testimonial-3.jpg" style="width: 100px; height: 100px; padding: 12px; margin-bottom: -50px; z-index: 1;" alt="">-->
                     <div class="bg-light text-center p-4 pt-0">
                         <h5 class="font-weight-medium mt-5">Client Name</h5>
                         <p class="text-muted font-italic">Profession</p>
@@ -432,15 +440,7 @@
                     </div>
                 </div>
                 <div class="testimonial-item">
-                    <img class="position-relative rounded-circle bg-white shadow mx-auto" src="img/testimonial-3.jpg" style="width: 100px; height: 100px; padding: 12px; margin-bottom: -50px; z-index: 1;" alt="">
-                    <div class="bg-light text-center p-4 pt-0">
-                        <h5 class="font-weight-medium mt-5">Client Name</h5>
-                        <p class="text-muted font-italic">Profession</p>
-                        <p class="m-0">Sed ea amet kasd elitr stet, stet rebum et ipsum est duo elitr eirmod clita lorem. Dolor ipsum clita</p>
-                    </div>
-                </div>
-                <div class="testimonial-item">
-                    <img class="position-relative rounded-circle bg-white shadow mx-auto" src="img/testimonial-4.jpg" style="width: 100px; height: 100px; padding: 12px; margin-bottom: -50px; z-index: 1;" alt="">
+                    <!--<img class="position-relative rounded-circle bg-white shadow mx-auto" src="img/testimonial-4.jpg" style="width: 100px; height: 100px; padding: 12px; margin-bottom: -50px; z-index: 1;" alt="">-->
                     <div class="bg-light text-center p-4 pt-0">
                         <h5 class="font-weight-medium mt-5">Client Name</h5>
                         <p class="text-muted font-italic">Profession</p>
@@ -454,7 +454,7 @@
 
 
     <!-- Blog Start -->
-    <div class="container-fluid mt-5 pb-2">
+    <!--<div class="container-fluid mt-5 pb-2">
         <div class="container">
             <h6 class="text-secondary text-uppercase text-center font-weight-medium mb-3">Our Blog</h6>
             <h1 class="display-4 text-center mb-5">Latest From Blog</h1>
@@ -509,7 +509,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
     <!-- Blog End -->
 
 
@@ -517,8 +517,8 @@
     <div class="container-fluid bg-primary text-white mt-5 pt-5 px-sm-3 px-md-5">
         <div class="row pt-5">
             <div class="col-lg-3 col-md-6 mb-5">
-                <a href=""><h1 class="text-secondary mb-3"><span class="text-white">DRY</span>ME</h1></a>
-                <p>Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sit no, sed kasd et ipsum dolor duo dolor</p>
+                <a href=""><h4 class="text-secondary mb-3"><span class="text-white">CONAKRY</span>PRESSING</h4></a>
+                <p>Retrouvez-nous sur nos différents réseaux sociaux</p>
                 <div class="d-flex justify-content-start mt-4">
                     <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" style="width: 38px; height: 38px;" href="#"><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" style="width: 38px; height: 38px;" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -527,33 +527,33 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
-                <h4 class="text-white mb-4">Get In Touch</h4>
-                <p>Dolor clita stet nonumy clita diam vero, et et ipsum diam labore</p>
-                <p><i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York, USA</p>
-                <p><i class="fa fa-phone-alt mr-2"></i>+012 345 67890</p>
-                <p><i class="fa fa-envelope mr-2"></i>info@example.com</p>
+                <h4 class="text-white mb-4">contact</h4>
+                <p>Pour nous contacter</p>
+                <p><i class="fa fa-map-marker-alt mr-2"></i>Kipé, Conakry, GUINEE</p>
+                <p><i class="fa fa-phone-alt mr-2"></i>+224 622 31 29 09</p>
+                <p><i class="fa fa-envelope mr-2"></i>conakrypressing@cpexpress.com</p>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
-                <h4 class="text-white mb-4">Quick Links</h4>
+                <h4 class="text-white mb-4">Liens rapides</h4>
                 <div class="d-flex flex-column justify-content-start">
-                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Home</a>
-                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>About Us</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Accueil</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>A propos</a>
                     <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Services</a>
-                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Pricing</a>
-                    <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Prix</a>
+                    <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Contact</a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="text-white mb-4">Newsletter</h4>
                 <form action="">
                     <div class="form-group">
-                        <input type="text" class="form-control border-0" placeholder="Your Name" required="required" />
+                        <input type="text" class="form-control border-0" placeholder="Votre Prénom" required="required" />
                     </div>
                     <div class="form-group">
-                        <input type="email" class="form-control border-0" placeholder="Your Email" required="required" />
+                        <input type="email" class="form-control border-0" placeholder="Votre Email" required="required" />
                     </div>
                     <div>
-                        <button class="btn btn-lg btn-secondary btn-block border-0" type="submit">Submit Now</button>
+                        <button class="btn btn-lg btn-secondary btn-block border-0" type="submit">Soumettre</button>
                     </div>
                 </form>
             </div>
@@ -561,7 +561,7 @@
     </div>
     <div class="container-fluid bg-dark text-white py-4 px-sm-3 px-md-5">
         <p class="m-0 text-center text-white">
-            &copy; <a class="text-white font-weight-medium" href="#">Your Site Name</a>. All Rights Reserved.
+            &copy; <a class="text-white font-weight-medium" href="#">Conakry Pressing</a>. Tous droits réservés.
         </p>
     </div>
     <!-- Footer End -->
